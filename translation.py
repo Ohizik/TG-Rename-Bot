@@ -27,7 +27,7 @@ This is a Telegram Rename Bot!
 1. Send me any Telegram File.
 2. Reply to that message to /rename new name.extension.
    
-<b>👉 Join our official channel for more t.me/ohizik
+<b>👉 Join our official channel for more https://t.me/joinchat/AAAAAFFKQgjbkTDxW7sZZw
 
 --------
  
